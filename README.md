@@ -30,5 +30,26 @@ A Railway Reservation Database System using Java and MySQL.
 ## 📊 Database Design
 The system uses primary keys and foreign keys to maintain relationships between tables.
 
+## 🛠 Technologies
+- Java
+- JDBC
+- MySQL
+- GitHub
+
+## 📌 Features
+✔ Add Train  
+✔ View Train List  
+✔ Manage Database
+
+## 📁 Database Script
+See `database/railway.sql`.
+
+## 🧠 How to Run
+1. Import SQL file into MySQL
+2. Compile Java code
+3. Run `Main.java`
+
+
+
 ## 👩‍💻 Author
 Kavitha
