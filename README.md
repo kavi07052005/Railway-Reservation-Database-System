@@ -1,55 +1,48 @@
 # Railway Reservation Database System
 
-## 📌 Project Description
+##  Project Description
 This project is a Railway Reservation Database System designed using MySQL.
 
-## 🛠 Technologies Used
+##  Technologies Used
 - MySQL
 - SQL
 - GitHub
 
-## 📂 Tables Created
+##  Tables Created
 - Trains
 - Passengers
 - Tickets
 
-## 🔑 Features
+##  Features
 - Add Train
 - Add Passenger
 - Book Ticket
 - View Train Details
 - Manage Seat Availability
-- # Railway Reservation Database System
+- 
 
-## 🚆 Overview
+##  Overview
 A Railway Reservation Database System using Java and MySQL.
 
-## 🗂 Project Structure
+## Project Structure
 
 
-## 📊 Database Design
+##  Database Design
 The system uses primary keys and foreign keys to maintain relationships between tables.
 
-## 🛠 Technologies
+## Technologies
 - Java
 - JDBC
 - MySQL
 - GitHub
 
-## 📌 Features
+##  Features
 ✔ Add Train  
 ✔ View Train List  
 ✔ Manage Database
 
-## 📁 Database Script
+##  Database Script
 See `database/railway.sql`.
-
-## 🧠 How to Run
-1. Import SQL file into MySQL
-2. Compile Java code
-3. Run `Main.java`
-
-
 
 ## 👩‍💻 Author
 Kavitha
