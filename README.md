@@ -19,6 +19,13 @@ This project is a Railway Reservation Database System designed using MySQL.
 - Book Ticket
 - View Train Details
 - Manage Seat Availability
+- # Railway Reservation Database System
+
+## 🚆 Overview
+A Railway Reservation Database System using Java and MySQL.
+
+## 🗂 Project Structure
+
 
 ## 📊 Database Design
 The system uses primary keys and foreign keys to maintain relationships between tables.
